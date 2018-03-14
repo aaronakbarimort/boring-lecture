@@ -1,0 +1,18 @@
+h1 {
+  font-family: monospace;
+  font-size: 60px;
+}
+
+h2.intro {
+  font-family: monospace;
+  font-size: 28px;
+}
+
+p.intro {
+  width: 50%;
+  font-family: sans-serif;
+}
+
+img.intro {
+  max-width: 450px;
+}
