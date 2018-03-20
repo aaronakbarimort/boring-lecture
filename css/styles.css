@@ -20,3 +20,17 @@ img {
   width: 50%;
   font-family: sans-serif;
 }
+
+.clickable {
+  cursor: pointer;
+  color: red;
+}
+
+.clickable:hover {
+  text-decoration: line-through;
+}
+
+.paragraph {
+  background-color: yellow;
+  border: 5px solid black;
+}
